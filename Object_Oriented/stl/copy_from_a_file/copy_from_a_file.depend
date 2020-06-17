@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590091245 source:c:\users\gdb\onedrive\desktop\c++\stl\copy_from_a_file\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587694072 source:c:\users\gdb\onedrive\desktop\c++\stl\practice_file\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

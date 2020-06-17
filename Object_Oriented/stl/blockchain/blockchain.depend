@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574193339 source:c:\users\gdb\onedrive\desktop\c++\stl\blockchain\main.c
+	<stdio.h>
+	<stdlib.h>
+

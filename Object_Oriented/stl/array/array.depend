@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573259344 source:c:\users\gdb\onedrive\desktop\c++\stl\array\main.cpp
+	<iostream>
+	<tuple>
+
